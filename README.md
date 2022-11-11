@@ -7,9 +7,18 @@
 
 - Ruby
 
-## Getting Started
+### Project Setup
 
-This repository includes files with plain Ruby code
+To get a local copy up and running, follow these simple example steps.
+
+1. Clone the repo in your local machine:
+```bash
+git clone https://github.com/RiyaBulia12/School-Library.git
+```
+2. Open terminal and cd into project and install the dependencies
+```bash
+bundle install
+```
 
 ## Authors
 
