@@ -7,6 +7,6 @@ class Student < person
   end
 
   def play_hooky
-    puts "¯\(ツ)/¯"
+    puts '¯(ツ)/¯'
   end
 end
